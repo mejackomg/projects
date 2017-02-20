@@ -1,0 +1,203 @@
+{
+  "name": "react-redux-starter-kit",
+  "version": "0.0.1",
+  "description": "Yet another React/Redux Starter Kit",
+  "scripts": {
+    "dev": "concurrent --kill-others \"npm run start-dev\" \"npm run start-dev-api\"",
+    "start": "concurrent --kill-others \"npm run start-prod\" \"npm run start-prod-api\"",
+    "start-dev": "better-npm-run start-dev",
+    "start-prod": "better-npm-run start-prod",
+    "start-dev-api": "better-npm-run start-dev-api",
+    "start-prod-api": "better-npm-run start-prod-api",
+    "build": "rimraf dist && NODE_ENV=production webpack --config ./webpack.production.config.js --progress --profile --colors",
+    "lint": "eslint src; exit 0",
+    "clean": "rimraf dist",
+    "dev-win": "SET NODE_ENV=development&&babel-node server.js",
+    "build-win": "rimraf dist && SET NODE_ENV=production&& webpack --config ./webpack.production.config.js --progress --profile --colors",
+    "start-win": "SET NODE_ENV=production&&SET PORT=80&&babel-node server.js"
+  },
+  "betterScripts": {
+    "start-dev": {
+      "command": "./bin/server.js",
+      "env": {
+        "NODE_ENV": "development",
+        "PORT": 3000,
+        "APIPORT": 3030
+      }
+    },
+    "start-prod": {
+      "command": "./bin/server.js",
+      "env": {
+        "NODE_ENV": "production",
+        "PORT": 3000,
+        "APIPORT": 3030
+      }
+    },
+    "start-dev-api": {
+      "command": "./bin/api.js",
+      "env": {
+        "NODE_ENV": "development",
+        "APIPORT": 3030
+      }
+    },
+    "start-prod-api": {
+      "command": "./bin/api.js",
+      "env": {
+        "NODE_ENV": "production",
+        "APIPORT": 3030
+      }
+    }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cloudmu/react-redux-starter-kit.git"
+  },
+  "keywords": [
+    "react",
+    "reactjs",
+    "redux",
+    "reduxjs",
+    "react-router",
+    "bootstrap",
+    "webpack",
+    "flux",
+    "jwt",
+    "autho0",
+    "dashboard",
+    "boilerplate"
+  ],
+  "author": "Yunjun Mu <yunjun.mu@gmail.com> (http://github.com/cloudmu)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cloudmu/react-redux-starter-kit/issues"
+  },
+  "homepage": "https://github.com/cloudmu/react-redux-starter-kit",
+  "dependencies": {
+    "bcrypt": "^0.8.7",
+    "bcryptjs": "^2.3.0",
+    "body-parser": "^1.14.1",
+    "classnames": "^2.2.3",
+    "d3": "^4.2.7",
+    "d3-cloud": "^1.2.1",
+    "echarts-for-react": "^1.1.5",
+    "echarts-wordcloud": "^1.0.2",
+    "express": "^4.13.3",
+    "highcharts": "^4.2.5",
+    "highcharts-3d": "^0.1.2",
+    "highcharts-more": "^0.1.2",
+    "highcharts-solid-gauge": "^0.1.2",
+    "http-proxy": "^1.14.0",
+    "isomorphic-fetch": "^2.2.1",
+    "jsonwebtoken": "^5.5.4",
+    "jwt-simple": "^0.5.0",
+    "lodash": "^4.3.0",
+    "material-ui": "^0.15.4",
+    "piping": "^1.0.0-rc.3",
+    "pmx": "^1.0.1",
+    "pretty-error": "^2.0.0",
+    "r-dom": "^2.1.0",
+    "react": "^15.3.1",
+    "react-addons-update": "^15.0.0",
+    "react-dock": "^0.2.3",
+    "react-dom": "^15.0.0",
+    "react-echarts": "^0.1.0",
+    "react-faux-dom": "^3.0.0",
+    "react-grid-layout": "^0.13.9",
+    "react-helmet": "^3.1.0",
+    "react-highcharts": "^8.3.0",
+    "react-list": "^0.7.18",
+    "react-map-gl": "^0.6.8",
+    "react-mixin": "^2.0.2",
+    "react-motion": "^0.4.3",
+    "react-nvd3": "^0.5.4",
+    "react-redux": "^4.4.0",
+    "react-router": "^2.0.0",
+    "react-sizeme": "^2.2.0",
+    "react-slick": "^0.14.5",
+    "react-split-pane": "^0.1.40",
+    "react-swipeable-views": "^0.6.2",
+    "react-tagcloud": "^0.4.2",
+    "react-title-component": "^1.0.1",
+    "redux": "^3.5.2",
+    "redux-form": "^6.0.0-rc.4",
+    "redux-form-material-ui": "^4.0.1",
+    "redux-logger": "^2.5.2",
+    "redux-thunk": "^1.0.3",
+    "scale-color-perceptual": "^1.1.2",
+    "screenfull": "jeroencoumans/screenfull.js#gh-pages",
+    "searchkit": "^0.10.0-0",
+    "socket.io": "^1.4.5",
+    "superagent": "^1.8.3",
+    "uuid": "^3.0.0",
+    "webgl-heatmap": "^0.2.3"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.5.1",
+    "babel-core": "^6.5.1",
+    "babel-eslint": "^5.0.0-beta10",
+    "babel-loader": "^6.2.2",
+    "babel-plugin-add-module-exports": "^0.1.2",
+    "babel-plugin-transform-runtime": "^6.5.0",
+    "babel-polyfill": "^6.5.0",
+    "babel-preset-es2015": "^6.5.0",
+    "babel-preset-react": "^6.5.0",
+    "babel-preset-react-hmre": "^1.1.0",
+    "babel-preset-stage-0": "^6.5.0",
+    "babel-register": "^6.5.1",
+    "babel-runtime": "^6.3.19",
+    "better-npm-run": "0.0.8",
+    "bootstrap": "^3.3.7",
+    "bootstrap-datetimerangepicker": "^2.1.17",
+    "browserify": "^13.0.0",
+    "concurrently": "^2.0.0",
+    "connect-redis": "^3.1.0",
+    "eslint": "^1.10.3",
+    "eslint-config-airbnb": "5.0.0",
+    "eslint-plugin-react": "^3.16.1",
+    "express-session": "^1.14.2",
+    "extract-text-webpack-plugin": "^0.8.2",
+    "file-loader": "^0.8.5",
+    "graceful-fs": "^4.1.3",
+    "immutable": "^3.7.6",
+    "json-loader": "^0.5.4",
+    "moment": "^2.16.0",
+    "mysql": "^2.11.1",
+    "raster-tile-style": "^1.0.1",
+    "raw-loader": "^0.5.1",
+    "react-bootstrap": "^0.30.6",
+    "react-bootstrap-datetimerangepicker": "^2.0.3",
+    "react-slick": "^0.14.5",
+    "react-tap-event-plugin": "^1.0.0",
+    "rimraf": "^2.4.3",
+    "stats-webpack-plugin": "^0.3.0",
+    "style-loader": "^0.13.0",
+    "transform-loader": "^0.2.3",
+    "url-loader": "^0.5.7",
+    "webpack": "^1.12.9",
+    "webpack-dev-middleware": "^1.5.1",
+    "webpack-hot-middleware": "^2.7.1",
+    "webworkify-webpack": "^1.0.6"
+  },
+  "apps": [
+    {
+      "name": "WEB_MAMMOTH",
+      "script": "./bin/server.js",
+      "env": {
+        "NODE_ENV": "production",
+        "HOST": "139.224.225.6",
+        "PORT": 80,
+        "APIHOST": "139.224.225.6",
+        "APIPORT": 3030
+      }
+    },
+    {
+      "name": "API_MAMMOTH",
+      "script": "./bin/api.js",
+      "env": {
+        "NODE_ENV": "production",
+        "APIHOST": "139.224.225.6",
+        "APIPORT": 3030
+      }
+    }
+  ]
+}

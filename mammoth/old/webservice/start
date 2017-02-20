@@ -1,0 +1,3 @@
+#!/bin/sh
+nohup python HttpServer.py; nohup python SoapServer.py
+chmod 777 start

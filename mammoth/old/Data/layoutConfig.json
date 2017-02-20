@@ -1,0 +1,534 @@
+{
+  "经营报告": {
+    "总览": [
+      {
+        "level1": "经营报告",
+        "level2": "销售数据概览",
+        "level3": "销售情况总览"
+      },
+      {
+        "level1": "经营报告",
+        "level2": "商户数据概览",
+        "level3": "商户数据总览"
+      },
+      {
+        "level1": "经营报告",
+        "level2": "用户数据概览",
+        "level3": "用户数据总览"
+      },
+      {
+        "level1": "经营报告",
+        "level2": "商品数据概览",
+        "level3": "商品数据总览"
+      },
+      {
+        "level1": "经营报告",
+        "level2": "页面访问概览",
+        "level3": "流量数据总览"
+      }
+    ],
+    "销售数据概览": [
+      {
+        "name": "销售情况总览",
+        "type": "指标概览",
+        "dispatchFunc": "salesOverview",
+        "dataPropName": "salesOverviewResult",
+        "valueList": {
+          "2016-01-22": [
+            {
+              "valueName": "到店支付总额",
+              "value": "123,456",
+              "unit": "万元"
+            },
+            {
+              "valueName": "外卖支付总额",
+              "value": "324,10",
+              "unit": "万元"
+            },
+            {
+              "valueName": "到店支付数",
+              "value": "43,432",
+              "unit": "次"
+            },
+            {
+              "valueName": "外卖支付数",
+              "value": "12,222",
+              "unit": "次"
+            },
+            {
+              "valueName": "订单用户总数",
+              "value": "43,236",
+              "unit": "个"
+            }
+          ]
+        }
+
+      },
+      {
+        "name": "购买用户数",
+        "type": "单指标",
+        "unit": "人",
+
+        "dispatchFunc": "buyUserCount",
+        "dataPropName": "buyUserCountResult",
+        "xData": [],
+        "yData": {
+          "购买用户数": []
+        }
+      },
+      {
+        "name": "每日订单量",
+        "type": "单指标",
+        "unit": "次",
+        "dispatchFunc": "DailyOrder",
+        "dataPropName": "DailyOrderResult",
+        "dateSelect":"true",
+        "xData": [],
+        "yData": {
+          "外卖": [],
+          "到店": []
+        }
+      },
+      {
+        "name": "总销售额",
+        "type": "单指标",
+        "unit": "万元",
+        "dispatchFunc": "TotalSalesVolume",
+        "dataPropName": "TotalSalesVolumeResult",
+
+        "xData": [],
+        "yData": {
+          "外卖金额": [],
+          "到店金额": [],
+          "总金额":[]
+        }
+      },
+      {
+        "name": "日订单均价",
+        "type": "单指标",
+        "dispatchFunc": "Dayprice",
+        "dataPropName": "DaypriceResult",
+        "unit": "元",
+        "xData": [],
+        "yData": {
+          "外卖": [],
+          "到店": []
+        }
+      },
+      {
+        "name": "贴补总额",
+        "type": "单指标",
+        "unit": "元",
+        "dispatchFunc": "totalIncome",
+        "dataPropName": "totalIncomeResult",
+        "xData": [],
+        "yData": {
+          "贴补总额": []
+        }
+      }
+    ],
+    "商户数据概览": [
+      {
+        "name": "商户数据总览",
+        "type": "指标概览",
+        "dispatchFunc": "ShopsOverview",
+        "dataPropName": "ShopsOverviewResult",
+        "valueList": {
+
+        }
+
+
+      },
+      {
+        "name": "销售额",
+        "type": "单指标",
+        "dispatchFunc": "ShopsConsumption",
+        "dataPropName": "ShopsConsumptionResult",
+        "unit": "万元",
+        "xData": [],
+        "yData": {
+          "销售额": []
+        }
+      },
+      {
+        "name": "商户信用值",
+        "type": "单指标",
+        "dispatchFunc": "ShopsCreditValue",
+        "dataPropName": "ShopsCreditValueResult",
+        "xData": [],
+        "yData": {
+          "商户信用值": []
+        }
+      },
+      {
+        "name": "用户数",
+        "type": "单指标",
+        "dispatchFunc": "NumbeOfUsers",
+        "dataPropName": "NumbeOfUsersResult",
+        "unit": "人",
+        "xData": [],
+        "yData": {
+          "用户数": []
+        }
+      },
+      {
+        "name": "订单数",
+        "type": "单指标",
+        "dispatchFunc": "OrderNumber",
+        "dataPropName": "OrderNumberResult",
+        "unit": "单",
+        "xData": [
+        ],
+        "yData": {
+          "已付款": [],
+          "未付款": []
+        }
+      }
+    ],
+    "用户数据概览": [
+      {
+        "name": "用户数据总览",
+        "type": "指标概览",
+        "dispatchFunc": "UserOverview",
+        "dataPropName": "UserOverviewResult",
+        "valueList": {
+        }
+      },
+      {
+        "name": "用户消费额",
+        "type": "单指标",
+        "dispatchFunc": "UserConsumption",
+        "dataPropName": "UserConsumptionResult",
+        "unit": "万元",
+        "xData": [],
+        "yData": {
+          "用户消费额": []
+        }
+      },
+      {
+        "name": "用户信用值",
+        "type": "单指标",
+        "dispatchFunc": "UserCreditValue",
+        "dataPropName": "UserCreditValueResult",
+        "xData": [],
+        "yData": {
+          "用户信用值": []
+        }
+      },
+      {
+        "name": "用户平均消费额",
+        "type": "单指标",
+        "dispatchFunc": "averageConsumerSpending",
+        "dataPropName": "averageConsumerSpendingResult",
+        "unit": "元",
+        "xData": [],
+        "yData": {
+          "用户平均消费额": []
+        }
+      }
+    ],
+    "商品数据概览": [
+      {
+        "name": "商品数据总览",
+        "type": "指标概览",
+        "dispatchFunc": "CommodityOverview",
+        "dataPropName": "CommodityOverviewResult",
+        "dateSelect":"true",
+        "valueList": {
+        }
+      },
+      {
+        "name": "商品类型总销量占比",
+        "type": "柱状图",
+        "dispatchFunc": "TotalSalesTop10",
+        "dataPropName": "TotalSalesTop10Result",
+        "dateSelect":"false",
+        "valueColumn":{
+          "2016-01-22":[{
+            "xData": "食品",
+            "value": "123,345"
+          },
+            {
+              "xData": "快餐",
+              "value": "123,345"
+            },
+            {
+              "xData": "中餐",
+              "value": "123,345"
+            }],
+          "2016-02-22":[{
+            "xData": "食品",
+            "value": "123,345"
+          },
+            {
+              "xData": "快餐",
+              "value": "123,345"
+            },
+            {
+              "xData": "中餐",
+              "value": "123,345"
+            }]
+        }
+      },
+      {
+        "name": "商品类型昨日销量占比",
+        "type": "柱状图",
+        "dispatchFunc": "SalesYesterdayTop10",
+        "dataPropName": "SalesYesterdayTop10Result",
+        "dateSelect":"false",
+        "valueColumn":{
+          "2016-01-22":[{
+            "xData": "食品",
+            "value": "123,345"
+          },
+            {
+              "xData": "快餐",
+              "value": "123,345"
+            },
+            {
+              "xData": "中餐",
+              "value": "123,345"
+            }],
+          "2016-02-22":[{
+            "xData": "食品",
+            "value": "123,345"
+          },
+            {
+              "xData": "快餐",
+              "value": "123,345"
+            },
+            {
+              "xData": "中餐",
+              "value": "123,345"
+            }]
+
+
+        }
+      }
+    ],
+    "页面访问概览": [
+      {
+        "name": "流量数据总览",
+        "type": "指标概览",
+        "dispatchFunc": "TrafficData",
+        "dataPropName": "TrafficDataResult",
+        "valueList": {
+        }
+      },
+      {
+        "name": "PV",
+        "type": "单指标",
+        "dispatchFunc": "PVAccess",
+        "dataPropName": "PVAccessResult",
+        "unit": "次",
+        "xData": [],
+        "yData": {
+          "PV": []
+        }
+      },
+      {
+        "name": "UV",
+        "type": "单指标",
+        "dispatchFunc": "UVAccess",
+        "dataPropName": "UVAccessResult",
+        "unit": "次",
+        "xData": [],
+        "yData": {
+          "UV": []
+        }
+      },
+      {
+        "name": "人均页面访问数",
+        "type": "单指标",
+        "dispatchFunc": "AvgPVAccess",
+        "dataPropName": "AvgPVAccessResult",
+        "unit": "次",
+        "xData": [],
+        "yData": {
+          "人均页面访问数": []
+        }
+      },
+      {
+        "name": "下单转化率",
+        "type": "单指标",
+        "dispatchFunc": "OrderChange",
+        "dataPropName": "OrderChangeResult",
+        "xData": [],
+        "yData": {
+          "下单转化率": []
+        }
+      },
+      {
+        "name": "客单价",
+        "type": "单指标",
+        "dispatchFunc": "AvgPrice",
+        "dataPropName": "AvgPriceResult",
+        "unit": "元",
+        "xData": [],
+        "yData": {
+          "客单价": []
+        }
+      }
+    ]
+  },
+  "用户分析": {
+    "default": [
+      {
+        "name": "单用户销售分析",
+        "type": "单指标",
+        "unit": "",
+        "dispatchFunc": "SingleUserConsumptionCurve",
+        "dataPropName": "SingleUserData",
+        "xData": [],
+        "yData": {
+          "单用户销售分析": []
+        }
+      },
+      {
+        "name": "单用户画像",
+        "type": "词云",
+        "dispatchFunc": "SingleusersCreditHistroy",
+        "dataPropName": "SingleUserCredit_historyData",
+        "unit": "",
+        "data": [
+          {
+            "name": "好看",
+            "value": 10000
+          },
+          {
+            "name": "漂亮",
+            "value": 6181
+          },
+          {
+            "name": "精彩",
+            "value": 4386
+          },
+          {
+            "name": "高频率",
+            "value": 4055
+          }
+        ]
+      }
+    ]
+  },
+  "商户分析": {
+    "default": [
+      {
+        "name": "单商户销售分析",
+        "type": "单指标",
+        "unit": "",
+        "dispatchFunc": "SingleShopSales",
+        "dataPropName": "SingleShopSalesResult",
+        "xData": [],
+        "yData": {
+          "单商户销售分析": []
+        }
+      },
+      {
+        "name": "单商户订单分析",
+        "type": "单指标",
+        "unit": "",
+        "dispatchFunc": "SingleShopOrder",
+        "dataPropName": "SingleShopOrderResult",
+        "xData": [],
+        "yData": {
+          "成功": [],
+          "退单": []
+        }
+      },
+      {
+        "name": "单商户画像",
+        "type": "词云",
+        "dispatchFunc": "loadShopData",
+        "dataPropName": "shopData",
+        "unit": "",
+        "data": [
+          {
+            "words": "Sam S Club",
+            "rank": 100
+          }, {
+            "words": "Macys",
+            "rank": 618
+          }, {
+            "words": "Amy Schumer",
+            "rank": 438
+          }, {
+            "words": "Jurassic World",
+            "rank": 405
+          }, {
+            "words": "Charter Communications",
+            "rank": 246
+          }, {
+            "words": "Chick Fil A",
+            "rank": 2244
+          }, {
+            "words": "Planet Fitnes",
+            "rank": 1898
+          }, {
+            "words": "Pitch Perfect",
+            "rank": 1484
+          }, {
+            "words": "Express",
+            "rank": 1112
+          }, {
+            "words": "Home",
+            "rank": 965
+          }, {
+            "words": "Johnny Depp",
+            "rank": 847
+          }, {
+            "words": "Lena Dunham",
+            "rank": 582
+          }, {
+            "words": "Lewis Hamilton",
+            "rank": 555
+          }, {
+            "words": "KXAN",
+            "rank": 550
+          }, {
+            "words": "Mary Ellen Mark",
+            "rank": 462
+          }, {
+            "words": "Farrah Abraham",
+            "rank": 366
+          }, {
+            "words": "Rita Ora",
+            "rank": 360
+          }, {
+            "words": "Serena Williams",
+            "rank": 282
+          }, {
+            "words": "NCAA baseball tournament",
+            "rank": 273
+          }, {
+            "words": "Point Break",
+            "rank": 265
+          }, {
+            "words": "Chick Fil A",
+            "rank": 2244
+          }, {
+            "words": "Planet Fitnes",
+            "rank": 1898
+          }, {
+            "words": "Pitch Perfect",
+            "rank": 1484
+          }
+        ]
+      },
+      {
+        "name": "单商户消费用户分布",
+        "type": "地图",
+        "dispatchFunc": "loadShopTelephone",
+        "dataPropName": "ShopTelephoneDate",
+        "value": "",
+        "unit": "",
+        "data":[]
+      }
+    ]
+  }
+}
+
+
+
+
+

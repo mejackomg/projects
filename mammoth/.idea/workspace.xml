@@ -1,0 +1,892 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8ee13144-7d76-4874-9a3a-576a19706c35" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/containers/Mammoth/BehaviorAnalysis/EventAnalysis.jsx" afterPath="$PROJECT_DIR$/src/containers/Mammoth/BehaviorAnalysis/EventAnalysis.jsx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/index.js" afterPath="$PROJECT_DIR$/src/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/containers/Mammoth/BehaviorAnalysis/EventTable.jsx" afterPath="$PROJECT_DIR$/src/containers/Mammoth/BehaviorAnalysis/EventTable.jsx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/containers/Mammoth/ConfigManage/UserManagePage.jsx" afterPath="$PROJECT_DIR$/src/containers/Mammoth/ConfigManage/UserManagePage.jsx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/containers/Mammoth/BehaviorAnalysis/RetentionAnalysisSurface.jsx" afterPath="$PROJECT_DIR$/src/containers/Mammoth/BehaviorAnalysis/RetentionAnalysisSurface.jsx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/containers/Mammoth/BehaviorAnalysis/RetentionAnalysis.jsx" afterPath="$PROJECT_DIR$/src/containers/Mammoth/BehaviorAnalysis/RetentionAnalysis.jsx" />
+    </list>
+    <list id="e1873c4d-7b46-452c-91f0-5e056c9c9f06" name="New changelist" comment="New changelist" />
+    <ignored path="mammoth.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="mammoth" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="renhong &lt;1425296326@qq.com&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="PUSH_TAGS">
+      <GitPushTagMode />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/containers/Mammoth/ConfigManage/UserEdit.jsx" />
+        <option value="$PROJECT_DIR$/api/actions/mysql/updateData.js" />
+        <option value="$PROJECT_DIR$/src/components/IndexPage.jsx" />
+        <option value="$PROJECT_DIR$/src/containers/UserManagement/User_Properties.jsx" />
+        <option value="$PROJECT_DIR$/api/actions/auth/index.js" />
+        <option value="$PROJECT_DIR$/api/actions/auth/update.js" />
+        <option value="$PROJECT_DIR$/src/containers/UserManagement/User_UpdatePassword.jsx" />
+        <option value="$PROJECT_DIR$/src/containers/Mammoth/RiskManage/RiskTable.jsx" />
+        <option value="$PROJECT_DIR$/server.js" />
+        <option value="$PROJECT_DIR$/src/containers/Mammoth/NavMenu.jsx" />
+        <option value="$PROJECT_DIR$/src/containers/UserManagement/LoginButton.jsx" />
+        <option value="$PROJECT_DIR$/src/components/mixpanel-node.js" />
+        <option value="$PROJECT_DIR$/src/containers/Mammoth/BehaviorAnalysis/FunnelAnalysis.jsx" />
+        <option value="$PROJECT_DIR$/src/containers/Mammoth/UserAnalysis/Chart3.jsx" />
+        <option value="$PROJECT_DIR$/src/containers/Mammoth/UserAnalysis/SelectButton.jsx" />
+        <option value="$PROJECT_DIR$/src/containers/Mammoth/UserAnalysis/CustomTable.jsx" />
+        <option value="$PROJECT_DIR$/src/containers/Mammoth/UserAnalysis/SatisfiedFind.jsx" />
+        <option value="$PROJECT_DIR$/src/containers/Mammoth/UserAnalysis/UserProfile.jsx" />
+        <option value="$PROJECT_DIR$/src/containers/Mammoth/UserAnalysis/UserSurvey.jsx" />
+        <option value="$PROJECT_DIR$/src/containers/Mammoth/Shops/ShopsPage.jsx" />
+        <option value="$PROJECT_DIR$/src/containers/Mammoth/Shops/SaleTable.jsx" />
+        <option value="$PROJECT_DIR$/src/containers/Mammoth/Shops/SaleAnalysis.jsx" />
+        <option value="$PROJECT_DIR$/src/containers/Mammoth/BehaviorAnalysis/Dialog_Type.jsx" />
+        <option value="$PROJECT_DIR$/src/reducers/auth.js" />
+        <option value="$PROJECT_DIR$/src/utils/ApiClient.js" />
+        <option value="$PROJECT_DIR$/api/actions/auth/logout.js" />
+        <option value="$PROJECT_DIR$/api/actions/auth/loadAuth.js" />
+        <option value="$PROJECT_DIR$/api/api.js" />
+        <option value="$PROJECT_DIR$/src/containers/Mammoth/Chrome.jsx" />
+        <option value="$PROJECT_DIR$/src/components/Chart.jsx" />
+        <option value="$PROJECT_DIR$/api/actions/mysql/config.js" />
+        <option value="$USER_HOME$/Library/Containers/com.tencent.xinWeChat/Data/Library/Application Support/com.tencent.xinWeChat/2.0b4.0.9/00936bc379bb486140c48361a542d147/Message/MessageTemp/d470538dee17bbf6ae90d21c0c80e18f/File/AdminManagement.json" />
+        <option value="$PROJECT_DIR$/api/actions/mysql/index.js" />
+        <option value="$PROJECT_DIR$/src/reducers/database.js" />
+        <option value="$PROJECT_DIR$/Data/AdminManagement.json" />
+        <option value="$PROJECT_DIR$/Data/layoutConfig.json" />
+        <option value="$PROJECT_DIR$/src/containers/Mammoth/Shops/ShopsProfile.jsx" />
+        <option value="$PROJECT_DIR$/src/components/Footer.jsx" />
+        <option value="$PROJECT_DIR$/src/containers/Mammoth/UserAnalysis/UserPage.jsx" />
+        <option value="$PROJECT_DIR$/src/containers/Mammoth/UserAnalysis/ShopsNavigationBar.jsx" />
+        <option value="$PROJECT_DIR$/api/config.js" />
+        <option value="$PROJECT_DIR$/src/containers/Mammoth/BehaviorAnalysis/CriticalPath.jsx" />
+        <option value="$PROJECT_DIR$/api/actions/mysql/UserPathData.js" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/src/index.js" />
+        <option value="$PROJECT_DIR$/api/actions/auth/login.js" />
+        <option value="$PROJECT_DIR$/api/actions/mysql/loadData.js" />
+        <option value="$PROJECT_DIR$/api/actions/mysql/database.js" />
+        <option value="$PROJECT_DIR$/src/containers/Mammoth/BehaviorAnalysis/RetentionAnalysis.jsx" />
+        <option value="$PROJECT_DIR$/src/containers/Mammoth/ConfigManage/UserManageTable.jsx" />
+        <option value="$PROJECT_DIR$/src/containers/Mammoth/ConfigManage/UserManagePage.jsx" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1440" />
+    <option name="y" value="-74" />
+    <option name="width" value="1920" />
+    <option name="height" value="977" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>AngularJS</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mammoth" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mammoth" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mammoth" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mammoth" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mammoth" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mammoth" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mammoth" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="utils" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mammoth" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mammoth" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="reducers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mammoth" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mammoth" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="containers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mammoth" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mammoth" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="containers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Mammoth" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mammoth" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mammoth" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="containers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Mammoth" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BehaviorAnalysis" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mammoth" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mammoth" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="api" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mammoth" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mammoth" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="api" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="actions" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mammoth" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mammoth" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="api" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="actions" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mysql" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="two.files.diff.last.used.folder" value="$PROJECT_DIR$/../webGIS" />
+    <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
+    <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
+    <property name="two.files.diff.last.used.file" value="$USER_HOME$/Desktop/UserPathData.js" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="editorconfig.notification" value="tab;" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/api/actions/mysql" />
+      <recent name="$PROJECT_DIR$/src/containers/Mammoth/Shops" />
+      <recent name="$PROJECT_DIR$/src/reducers" />
+      <recent name="$PROJECT_DIR$/src/components" />
+      <recent name="$PROJECT_DIR$/Data" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/api" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8ee13144-7d76-4874-9a3a-576a19706c35" name="Default" comment="" />
+      <changelist id="e1873c4d-7b46-452c-91f0-5e056c9c9f06" name="New changelist" comment="" />
+      <created>1479205554622</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1479205554622</updated>
+      <workItem from="1479205555774" duration="158000" />
+      <workItem from="1479206176575" duration="682000" />
+      <workItem from="1479206862629" duration="1487000" />
+      <workItem from="1479208592181" duration="27616000" />
+      <workItem from="1479311997739" duration="10920000" />
+      <workItem from="1479438931404" duration="24801000" />
+      <workItem from="1479644655601" duration="40092000" />
+      <workItem from="1479786019928" duration="92319000" />
+      <workItem from="1479992466567" duration="1847000" />
+      <workItem from="1479994453244" duration="2410000" />
+      <workItem from="1480044102492" duration="22164000" />
+      <workItem from="1480076765704" duration="1676000" />
+      <workItem from="1480086498196" duration="2080000" />
+      <workItem from="1480214350110" duration="4622000" />
+      <workItem from="1480231266172" duration="2455000" />
+      <workItem from="1480234123811" duration="42379000" />
+      <workItem from="1480387800057" duration="1207000" />
+      <workItem from="1480389193981" duration="93136000" />
+      <workItem from="1480608103771" duration="1002000" />
+      <workItem from="1480645894026" duration="5997000" />
+      <workItem from="1480664324913" duration="352000" />
+      <workItem from="1480688825605" duration="4688000" />
+      <workItem from="1480761449098" duration="1698000" />
+      <workItem from="1480764918900" duration="3919000" />
+      <workItem from="1480774811595" duration="10293000" />
+      <workItem from="1481376255425" duration="393000" />
+      <workItem from="1481421599274" duration="288000" />
+      <workItem from="1483585744926" duration="1106000" />
+      <workItem from="1483590705006" duration="28000" />
+      <workItem from="1483602129597" duration="1424000" />
+      <workItem from="1483607261896" duration="1724000" />
+      <workItem from="1483611197432" duration="24000" />
+      <workItem from="1483611285513" duration="191000" />
+      <workItem from="1483671380494" duration="31000" />
+      <workItem from="1483672010448" duration="233000" />
+      <workItem from="1483673525698" duration="2308000" />
+      <workItem from="1484053732132" duration="397000" />
+      <workItem from="1484122103836" duration="8360000" />
+      <workItem from="1484215740104" duration="1302000" />
+      <workItem from="1484394895412" duration="1643000" />
+      <workItem from="1484446581921" duration="120000" />
+      <workItem from="1484537200609" duration="3170000" />
+      <workItem from="1484554927222" duration="8760000" />
+      <workItem from="1484893556459" duration="5244000" />
+      <workItem from="1485703135510" duration="1048000" />
+      <workItem from="1486218249100" duration="8382000" />
+      <workItem from="1486348721419" duration="1490000" />
+      <workItem from="1486351769524" duration="1008000" />
+      <workItem from="1486371290492" duration="95000" />
+      <workItem from="1486371444667" duration="113000" />
+      <workItem from="1486388593845" duration="3380000" />
+      <workItem from="1486462011463" duration="1718000" />
+      <workItem from="1486545328137" duration="407000" />
+      <workItem from="1486556188471" duration="17000" />
+      <workItem from="1486611397193" duration="3690000" />
+      <workItem from="1486693207970" duration="726000" />
+      <workItem from="1486696935323" duration="303000" />
+      <workItem from="1486717686051" duration="1194000" />
+      <workItem from="1486722683610" duration="6000" />
+      <workItem from="1486722955006" duration="1359000" />
+      <workItem from="1486866845241" duration="7917000" />
+      <workItem from="1486974464731" duration="2446000" />
+      <workItem from="1487066735960" duration="2145000" />
+      <workItem from="1487149053478" duration="1654000" />
+      <workItem from="1487156230341" duration="3175000" />
+      <workItem from="1487210761168" duration="2839000" />
+      <workItem from="1487297701832" duration="1209000" />
+      <workItem from="1487304673254" duration="9636000" />
+      <workItem from="1487388787064" duration="8801000" />
+      <workItem from="1487413923890" duration="607000" />
+      <workItem from="1487473309260" duration="3905000" />
+      <workItem from="1487500956357" duration="4000" />
+    </task>
+    <task id="LOCAL-00001" summary="11">
+      <created>1479209420784</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1479209420784</updated>
+    </task>
+    <task id="LOCAL-00002" summary="11">
+      <created>1479468411426</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1479468411426</updated>
+    </task>
+    <task id="LOCAL-00003" summary="11">
+      <created>1480325802660</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1480325802660</updated>
+    </task>
+    <task id="LOCAL-00004" summary="1129">
+      <created>1480388084796</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1480388084796</updated>
+    </task>
+    <task id="LOCAL-00005" summary="New changelist">
+      <created>1480388955683</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1480388955683</updated>
+    </task>
+    <task id="LOCAL-00006" summary="New changelist">
+      <created>1480401469267</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1480401469267</updated>
+    </task>
+    <task id="LOCAL-00007" summary="New changelist">
+      <created>1483608533133</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1483608533133</updated>
+    </task>
+    <task id="LOCAL-00008" summary="New changelist">
+      <created>1484216406868</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1484216406868</updated>
+    </task>
+    <task id="LOCAL-00009" summary="0116">
+      <created>1484545162912</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1484545162912</updated>
+    </task>
+    <task id="LOCAL-00010" summary="0116">
+      <created>1484563752728</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1484563752728</updated>
+    </task>
+    <task id="LOCAL-00011" summary="0121 改用连接池">
+      <created>1484983066348</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1484983066348</updated>
+    </task>
+    <task id="LOCAL-00012" summary="0121">
+      <created>1484983156846</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1484983156846</updated>
+    </task>
+    <task id="LOCAL-00013" summary="0121">
+      <created>1484983739161</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1484983739161</updated>
+    </task>
+    <task id="LOCAL-00014" summary="0129">
+      <created>1485703532286</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1485703532286</updated>
+    </task>
+    <task id="LOCAL-00015" summary="0129">
+      <created>1485703553335</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1485703553335</updated>
+    </task>
+    <task id="LOCAL-00016" summary="0204 yj">
+      <created>1486218965034</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1486218965034</updated>
+    </task>
+    <task id="LOCAL-00017" summary="0204 yj">
+      <created>1486221659198</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1486221659198</updated>
+    </task>
+    <task id="LOCAL-00018" summary="0204 yj">
+      <created>1486222702224</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1486222702224</updated>
+    </task>
+    <task id="LOCAL-00019" summary="0204 yj">
+      <created>1486225695686</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1486225695686</updated>
+    </task>
+    <task id="LOCAL-00020" summary="0204 yj">
+      <created>1486226233728</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1486226233728</updated>
+    </task>
+    <task id="LOCAL-00021" summary="0204 yj">
+      <created>1486227436308</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1486227436308</updated>
+    </task>
+    <task id="LOCAL-00022" summary="0204 yj">
+      <created>1486228335985</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1486228335985</updated>
+    </task>
+    <task id="LOCAL-00023" summary="0207 loadUserPath接口">
+      <created>1486432355169</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1486432355169</updated>
+    </task>
+    <task id="LOCAL-00024" summary="0207">
+      <created>1486433088492</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1486433088492</updated>
+    </task>
+    <task id="LOCAL-00025" summary="0207">
+      <created>1486473180733</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1486473180733</updated>
+    </task>
+    <task id="LOCAL-00026" summary="0207">
+      <created>1486545372654</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1486545372654</updated>
+    </task>
+    <task id="LOCAL-00027" summary="0207">
+      <created>1486693345181</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1486693345181</updated>
+    </task>
+    <task id="LOCAL-00028" summary="0207">
+      <created>1486693710259</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1486693710259</updated>
+    </task>
+    <task id="LOCAL-00029" summary="0210">
+      <created>1486697197766</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1486697197766</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="506020000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1440" y="-74" width="1920" height="977" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32765958" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2912458" sideWeight="0.50277996" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31962866" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18636848" sideWeight="0.49722" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2022117" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20660277" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24960506" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="11" />
+    <MESSAGE value="1129" />
+    <MESSAGE value="New changelist" />
+    <MESSAGE value="0116" />
+    <MESSAGE value="0121 改用连接池" />
+    <MESSAGE value="0121" />
+    <MESSAGE value="0129" />
+    <MESSAGE value="0204 yj" />
+    <MESSAGE value="0207 loadUserPath接口" />
+    <MESSAGE value="0207" />
+    <MESSAGE value="0210" />
+    <option name="LAST_COMMIT_MESSAGE" value="0210" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="6" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/containers/Mammoth/ConfigManage/UserManagePage.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3780">
+          <caret line="275" column="22" selection-start-line="275" selection-start-column="22" selection-end-line="275" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/actions/mysql/loadData.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26835">
+          <caret line="1790" column="22" selection-start-line="1790" selection-start-column="22" selection-end-line="1790" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/containers/Mammoth/ConfigManage/UserEdit.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1935">
+          <caret line="143" column="5" selection-start-line="143" selection-start-column="5" selection-end-line="143" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/containers/Mammoth/BehaviorAnalysis/RetentionAnalysis.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3195">
+          <caret line="225" column="54" selection-start-line="225" selection-start-column="54" selection-end-line="225" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/containers/Mammoth/BehaviorAnalysis/RetentionAnalysisSurface.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="16" column="38" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/containers/Mammoth/Shops/BoxOfficeMarket.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2925">
+          <caret line="213" column="4" selection-start-line="213" selection-start-column="4" selection-end-line="213" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/containers/Mammoth/UserAnalysis/BoxOfficeMarket.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2940">
+          <caret line="214" column="4" selection-start-line="214" selection-start-column="4" selection-end-line="214" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/actions/mysql/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="35" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/actions/mysql/UserPathData.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4050">
+          <caret line="273" column="48" selection-start-line="273" selection-start-column="48" selection-end-line="273" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/actions/mysql/loadTwoData.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1800">
+          <caret line="121" column="30" selection-start-line="121" selection-start-column="16" selection-end-line="121" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
